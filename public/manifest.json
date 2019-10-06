@@ -1,6 +1,6 @@
 {
-  "name": "renaciendoalavidaplena",
-  "short_name": "renaciendoalavidaplena",
+  "name": "Renaciendo a la vida Plena",
+  "short_name": "R. Vida Plena",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -11,9 +11,14 @@
       "src": "./img/icons/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android-chrome-720x720.png",
+      "sizes": "720x720",
+      "type": "image/png"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
